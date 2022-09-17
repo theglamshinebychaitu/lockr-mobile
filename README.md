@@ -10,8 +10,8 @@ Also you can withdrwa your crypto currency using this platform, you may take loa
 
 ### Lockr-mobile Screenshots
 
-![App UI](/image1.png)
-![App UI](/image2.png)
+![App UI](/image1.PNG)
+![App UI](/image2.PNG)
 ![App UI](/image3.png)
 ![App UI](/image4.png)
 ![App UI](/image5.png)
